@@ -25,9 +25,10 @@ fichier `loan.csv`) : 887 379 prêts, dont 254 190 avec une issue connue
 ## Lancer l'application
 Dans R, installer les packages puis lancer l'application :
 
+```r
 install.packages(c("shiny", "ggplot2"))
 shiny::runApp()
-
+```
 ## Droits
 © 2026 Iradukunda. Projet présenté à titre de démonstration, tous droits réservés.
 
